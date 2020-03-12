@@ -1,0 +1,3 @@
+rootProject.name='JavaInheritance-MissionAndroid1.1.4'
+include ':app'
+include ':JavaInheritance'
